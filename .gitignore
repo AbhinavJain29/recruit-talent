@@ -21,3 +21,7 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Internal planning docs
+PRD.md
+progress.md

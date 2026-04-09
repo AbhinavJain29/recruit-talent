@@ -2,6 +2,8 @@
 
 A recruiter-facing job application management portal. Recruiters can track open roles, manage candidate pipelines, and automatically notify rejected candidates via email — powered by an async Kafka-based notification system.
 
+**[→ End-to-End Demo Guide](./DEMO.md)** — step-by-step local setup through a live rejection email test.
+
 ---
 
 ## Architecture Overview
